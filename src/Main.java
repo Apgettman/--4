@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Задание 1
-        byte cat = 1;
+        byte cat = 2;
         short mouse = 3;
         int dog = 7;
         long elephant = 110L;
